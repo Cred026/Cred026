@@ -11,7 +11,7 @@
 
  - Langueges: C# | Python | Javascript
  - Framework/Library: Flask | Reactjs | Tailwind
- - Other: Simple Git
+ - Other: Simple Git | Basic DSA Theory Knowledge
 
 ## Contact Me
  - [Linkedin](https://www.linkedin.com/in/red-cabigan-755821367/) 
