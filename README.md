@@ -2,7 +2,7 @@
 
 ## About Me
 
- - I am Red Cabigan Cabigan currently a 2nd Year studying BSIT at LSPU-SCC
+ - I am Red Cabigan currently a 2nd Year studying Bachelor of Science in Information Technology at Laguna State Polytechnic University - Santa Cruz Campus
  - Aspiring Web developer
  - My goal is to become a Full Stack WebDev
  - Interested in Learning ASP.NET Core
