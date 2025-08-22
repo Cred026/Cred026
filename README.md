@@ -5,7 +5,7 @@
  - I am Red Cabigan Cabigan currently a 2nd Year studying BSIT at LSPU-SCC
  - Aspiring Web developer
  - My goal is to become a Full Stack WebDev
- - Interested in Learning ASP.NET
+ - Interested in Learning ASP.NET Core
 
 ## Skills
 
